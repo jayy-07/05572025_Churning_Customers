@@ -1,5 +1,5 @@
 # Churning Customers Prediction
-This project aims to develop a deep learning model that can predict customer churn for a telecom company. Customer churn is the loss of customers who stop using the company’s services. It can affect the profitability of the company making it needful for companies to identif
+This project aims to develop a deep learning model that can predict customer churn for a telecom company. Customer churn is the loss of customers who stop using the company’s services. It can affect the profitability of the company making it needful for companies to identify what factors can cause a customer to churn and act accordingly.
 
 ## Data
 The data used for the project contains information about 7043 customers of a telecom company. The data includes 20 features, such as gender, tenure, monthly charges, contract type, etc. The target variable is Churn, which indicates whether the customer left the company within the last month.

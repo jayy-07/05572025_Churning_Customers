@@ -19,4 +19,4 @@ Model evaluation: Evaluating the model’s performance on the test set using acc
 
 Model deployment: Creating a web-based platform to host the model using Streamlit to allow users to enter new data and get the prediction of customer churn and the confidence factor of the model.
 Demo
-A short video demonstrating how the web-based platform works can be found [here.](https://clipchamp.com/watch/bZtC4ZoaOdD)
+A short video demonstrating how the web-based platform works can be found [here](https://clipchamp.com/watch/bZtC4ZoaOdD).

@@ -18,5 +18,6 @@ Model building: Defining and training a multi-layer perceptron (MLP) model using
 Model evaluation: Evaluating the model’s performance on the test set using accuracy and AUC score metrics. The AUC score measures the ability of the model to distinguish between positive and negative classes.
 
 Model deployment: Creating a web-based platform to host the model using Streamlit to allow users to enter new data and get the prediction of customer churn and the confidence factor of the model.
-Demo
+
+## Demo
 A short video demonstrating how the web-based platform works can be found [here](https://clipchamp.com/watch/bZtC4ZoaOdD).
